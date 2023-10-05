@@ -82195,7 +82195,7 @@ s($,"aHU","at2",()=>new A.ab0())
 r($,"aLe","av_",()=>new A.VK(A.aD(A.a9("ln"))))
 r($,"aL3","auV",()=>new A.V9())
 s($,"aH7","asJ",()=>A.i1("^[\\w!#%&'*+\\-.^`|~]+$",!0,!1))
-s($,"aLq","av3",()=>A.ayb(A.a([A.ajt(new A.ai9(),"splash","/"),A.ajt(new A.aia(),"home","/home")],t.yo)))
+s($,"aLq","av3",()=>A.ayb(A.a([A.ajt(new A.ai9(),"splash","/home"),A.ajt(new A.aia(),"home","/")],t.yo)))
 s($,"aIZ","atB",()=>$.UA())
 s($,"aIY","UA",()=>{var q,p,o,n,m,l,k,j,i,h,g=63.66197723675813*A.X_(50)/100,f=A.aGh(30,50),e=$.WZ[0],d=$.WZ[1],c=$.WZ[2],b=e*0.401288+d*0.650173+c*-0.051461,a=e*-0.250268+d*1.204414+c*0.045854,a0=e*-0.002079+d*0.048952+c*0.953127,a1=A.ayR(0.59,0.69,0.9999999999999998),a2=1-0.2777777777777778*A.aFz((-g-42)/92)
 if(a2>1)a2=1
